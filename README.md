@@ -1,3 +1,5 @@
+# NOTICE: Buildspace is now defunct, meaning that all Buildspace projects on my GitHub account are no longer accessible for creation.
+
 # ElephantDAO
 
 ![buildspace](https://github.com/user-attachments/assets/5732eb1c-35b9-4a2d-af0f-33965fc0ff2d)
